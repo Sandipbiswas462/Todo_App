@@ -1,2 +1,2 @@
-# Todo_App
+# Todo
 This project only used HTML , CSS and Javascript
